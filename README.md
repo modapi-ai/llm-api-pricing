@@ -21,7 +21,7 @@ New here? Start with $20 in free credit. Top up $100, get up to $330 in LLM cred
 <!-- pricing:start -->
 ### OpenAI
 
-64 models · live prices: [modapi.ai/pricing?search=gpt](https://modapi.ai/pricing?search=gpt&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
+66 models · live prices: [modapi.ai/pricing?search=gpt](https://modapi.ai/pricing?search=gpt&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
 
 | Model | Input $/1M | Output $/1M |
 |---|---:|---:|
@@ -79,6 +79,8 @@ New here? Start with $20 in free credit. Top up $100, get up to $330 in LLM cred
 | `gpt-6-sol` | $2 | $10 |
 | `gpt-6.1-sol` | $2 | $10 |
 | `gpt-6.1-terra` | $1 | $5 |
+| `gpt-6.2-astra` | $8 | $40 |
+| `gpt-6.2-sol` | $2 | $10 |
 | `gpt-chat-latest` | $1.103 | $6.618 |
 | `gpt-oss-120b` | $0.2328 | $0.931 |
 | `o1` | $15 | $60 |
@@ -92,7 +94,7 @@ New here? Start with $20 in free credit. Top up $100, get up to $330 in LLM cred
 
 ### Alibaba (Qwen)
 
-21 models · live prices: [modapi.ai/pricing?search=qwen](https://modapi.ai/pricing?search=qwen&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
+22 models · live prices: [modapi.ai/pricing?search=qwen](https://modapi.ai/pricing?search=qwen&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
 
 | Model | Input $/1M | Output $/1M |
 |---|---:|---:|
@@ -116,16 +118,18 @@ New here? Start with $20 in free credit. Top up $100, get up to $330 in LLM cred
 | `qwen3.8-max` | $2 | $6 |
 | `qwen3.8-max-0902` | $2 | $6 |
 | `qwen3.8-omni-flash` | $0.315 | $0.987 |
+| `qwen4-max` | $3.15 | $9.45 |
 | `qwq-32b` | $2.562 | $7.688 |
 
 ### Anthropic
 
-14 models · live prices: [modapi.ai/pricing?search=claude](https://modapi.ai/pricing?search=claude&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
+15 models · live prices: [modapi.ai/pricing?search=claude](https://modapi.ai/pricing?search=claude&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
 
 | Model | Input $/1M | Output $/1M |
 |---|---:|---:|
 | `claude-fable-5` | $10 | $50 |
 | `claude-fable-5-1` | $10 | $50 |
+| `claude-fable-5-2` | $8 | $40 |
 | `claude-haiku-4-5-20251001` | $1 | $5 |
 | `claude-haiku-5-5` | $0.1 | $0.5 |
 | `claude-opus-4-5-20251101` | $5 | $25 |
@@ -141,7 +145,7 @@ New here? Start with $20 in free credit. Top up $100, get up to $330 in LLM cred
 
 ### Google
 
-14 models · live prices: [modapi.ai/pricing?search=gemini](https://modapi.ai/pricing?search=gemini&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
+15 models · live prices: [modapi.ai/pricing?search=gemini](https://modapi.ai/pricing?search=gemini&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
 
 | Model | Input $/1M | Output $/1M |
 |---|---:|---:|
@@ -158,7 +162,8 @@ New here? Start with $20 in free credit. Top up $100, get up to $330 in LLM cred
 | `gemini-3.6-flash` | $0.75 | $3.75 |
 | `gemini-3.7-flash` | $0.75 | $3.75 |
 | `gemini-3.8-flash` | $0.75 | $3.75 |
-| `gemini-4-argon` | $2 | $10 |
+| `gemini-4-argon` | $4 | $20 |
+| `gemini-4-hydrogen` | $3.15 | $15.75 |
 
 ### Zhipu (GLM)
 
@@ -180,7 +185,7 @@ New here? Start with $20 in free credit. Top up $100, get up to $330 in LLM cred
 
 ### xAI
 
-9 models · live prices: [modapi.ai/pricing?search=grok](https://modapi.ai/pricing?search=grok&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
+8 models · live prices: [modapi.ai/pricing?search=grok](https://modapi.ai/pricing?search=grok&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
 
 | Model | Input $/1M | Output $/1M |
 |---|---:|---:|
@@ -192,7 +197,6 @@ New here? Start with $20 in free credit. Top up $100, get up to $330 in LLM cred
 | `grok-4.6` | $2 | $6 |
 | `grok-4.7` | $2 | $6 |
 | `grok-4.7-fast` | $4 | $12 |
-| `grok-build-0.1` | $1 | $2 |
 
 ### DeepSeek
 
