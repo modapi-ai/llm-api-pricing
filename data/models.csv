@@ -51,7 +51,10 @@ Google,gemini-3.6-flash,0.75,3.75,2026-11-22
 Google,gemini-3.7-flash,1.575,7.875,2026-11-24
 Google,gemini-3.8-flash,0.75,3.75,2026-11-22
 Google,gemini-4-argon,4.0,20.0,2026-11-23
+Google,gemini-4-carbon,2.0,10.0,2026-11-25
 Google,gemini-4-hydrogen,1.5,7.5,2026-11-24
+Google,gemini-4-neon,3.0,15.0,2026-11-25
+Hunyuan (腾讯混元),hy4-preview,1.751,5.252,2026-11-25
 MiniMax,MiniMax-M2.5,0.63,2.52,2026-11-22
 MiniMax,MiniMax-M2.7,0.63,2.52,2026-11-24
 MiniMax,MiniMax-M3,0.63,2.52,2026-11-22
@@ -60,6 +63,8 @@ Moonshot (Kimi),kimi-k2-0711-preview,0.775,3.1,2026-11-22
 Moonshot (Kimi),kimi-k2.5,1.427,7.494,2026-11-22
 Moonshot (Kimi),kimi-k2.6,0.95,4.0,2026-11-24
 Moonshot (Kimi),kimi-k2.7-code,0.95,4.0,2026-11-24
+Moonshot (Kimi),kimi-k2.7-pro,75.0,75.0,2026-11-25
+Moonshot (Kimi),kimi-k2.8,75.0,75.0,2026-11-25
 Moonshot (Kimi),kimi-k3,3.0,15.0,2026-11-22
 Moonshot (Kimi),kimi-k3.1-pro,2.0,10.0,2026-11-22
 OpenAI,gpt-3.5-turbo,1.05,3.15,2026-11-22
@@ -112,7 +117,7 @@ OpenAI,gpt-6-astra,10.0,50.0,2026-11-22
 OpenAI,gpt-6-luna,0.21,1.05,2026-11-24
 OpenAI,gpt-6-sol,2.0,10.0,2026-11-22
 OpenAI,gpt-6.1-sol,2.0,10.0,2026-11-22
-OpenAI,gpt-6.1-terra,2.1,10.5,2026-11-24
+OpenAI,gpt-6.1-terra,1.0,5.0,2026-11-25
 OpenAI,gpt-6.2-astra,8.0,40.0,2026-11-23
 OpenAI,gpt-6.2-sol,2.0,10.0,2026-11-23
 OpenAI,gpt-chat-latest,2.316,13.9,2026-11-24
@@ -125,6 +130,7 @@ OpenAI,o3-mini,1.1,4.4,2026-11-22
 OpenAI,o3-mini-2025-01-31,1.1,4.4,2026-11-22
 OpenAI,o4-mini,1.1,4.4,2026-11-22
 OpenAI,o4-mini-2025-04-16,1.1,4.4,2026-11-22
+Other,glm-5.3-prime,75.0,75.0,2026-11-25
 Xiaomi,mimo-v2.5,0.294,0.588,2026-11-24
 Xiaomi,mimo-v2.6-flash,0.14,0.28,2026-11-24
 Xiaomi,mimo-v2.6-pro,0.435,0.87,2026-11-24
@@ -138,6 +144,7 @@ Zhipu (GLM),glm-5.1,0.886,3.544,2026-11-24
 Zhipu (GLM),glm-5.2,1.4,4.4,2026-11-24
 Zhipu (GLM),glm-5.3,1.4,4.4,2026-11-22
 Zhipu (GLM),glm-5.3-flash,0.15,0.5,2026-11-22
+Zhipu (GLM),glm-5.3-flashx,0.37,1.25,2026-11-25
 xAI,grok-4,3.0,15.0,2026-11-22
 xAI,grok-4-20-non-reasoning,2.625,5.25,2026-11-24
 xAI,grok-4-20-reasoning,2.625,5.25,2026-11-24

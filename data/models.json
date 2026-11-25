@@ -368,10 +368,31 @@
   },
   {
    "vendor": "Google",
+   "model": "gemini-4-carbon",
+   "input": 2.0,
+   "output": 10.0,
+   "updated": "2026-11-25"
+  },
+  {
+   "vendor": "Google",
    "model": "gemini-4-hydrogen",
    "input": 1.5,
    "output": 7.5,
    "updated": "2026-11-24"
+  },
+  {
+   "vendor": "Google",
+   "model": "gemini-4-neon",
+   "input": 3.0,
+   "output": 15.0,
+   "updated": "2026-11-25"
+  },
+  {
+   "vendor": "Hunyuan (\u817e\u8baf\u6df7\u5143)",
+   "model": "hy4-preview",
+   "input": 1.751,
+   "output": 5.252,
+   "updated": "2026-11-25"
   },
   {
    "vendor": "MiniMax",
@@ -428,6 +449,20 @@
    "input": 0.95,
    "output": 4.0,
    "updated": "2026-11-24"
+  },
+  {
+   "vendor": "Moonshot (Kimi)",
+   "model": "kimi-k2.7-pro",
+   "input": 75.0,
+   "output": 75.0,
+   "updated": "2026-11-25"
+  },
+  {
+   "vendor": "Moonshot (Kimi)",
+   "model": "kimi-k2.8",
+   "input": 75.0,
+   "output": 75.0,
+   "updated": "2026-11-25"
   },
   {
    "vendor": "Moonshot (Kimi)",
@@ -796,9 +831,9 @@
   {
    "vendor": "OpenAI",
    "model": "gpt-6.1-terra",
-   "input": 2.1,
-   "output": 10.5,
-   "updated": "2026-11-24"
+   "input": 1.0,
+   "output": 5.0,
+   "updated": "2026-11-25"
   },
   {
    "vendor": "OpenAI",
@@ -883,6 +918,13 @@
    "input": 1.1,
    "output": 4.4,
    "updated": "2026-11-22"
+  },
+  {
+   "vendor": "Other",
+   "model": "glm-5.3-prime",
+   "input": 75.0,
+   "output": 75.0,
+   "updated": "2026-11-25"
   },
   {
    "vendor": "Xiaomi",
@@ -974,6 +1016,13 @@
    "input": 0.15,
    "output": 0.5,
    "updated": "2026-11-22"
+  },
+  {
+   "vendor": "Zhipu (GLM)",
+   "model": "glm-5.3-flashx",
+   "input": 0.37,
+   "output": 1.25,
+   "updated": "2026-11-25"
   },
   {
    "vendor": "xAI",
