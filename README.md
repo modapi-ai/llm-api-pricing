@@ -140,7 +140,7 @@ New here? Start with $20 in free credit. Top up $100, get up to $330 in LLM cred
 
 ### Anthropic
 
-15 models · live prices: [modapi.ai/pricing?search=claude](https://modapi.ai/pricing?search=claude&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
+14 models · live prices: [modapi.ai/pricing?search=claude](https://modapi.ai/pricing?search=claude&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
 
 | Model | Input $/1M | Output $/1M |
 |---|---:|---:|
@@ -155,7 +155,6 @@ New here? Start with $20 in free credit. Top up $100, get up to $330 in LLM cred
 | `claude-opus-4-8` | $5 | $25 |
 | `claude-opus-5` | $5 | $25 |
 | `claude-opus-5-5` | $4 | $20 |
-| `claude-sonnet-4-5-20250929` | $3 | $15 |
 | `claude-sonnet-4-6` | $3 | $15 |
 | `claude-sonnet-5` | $2 | $10 |
 | `claude-sonnet-5-5` | $2 | $10 |

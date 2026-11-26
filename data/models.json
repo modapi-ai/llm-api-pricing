@@ -214,13 +214,6 @@
   },
   {
    "vendor": "Anthropic",
-   "model": "claude-sonnet-4-5-20250929",
-   "input": 3.0,
-   "output": 15.0,
-   "updated": "2026-11-22"
-  },
-  {
-   "vendor": "Anthropic",
    "model": "claude-sonnet-4-6",
    "input": 3.0,
    "output": 15.0,
