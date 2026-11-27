@@ -21,7 +21,7 @@ New here? Start with $20 in free credit. Top up $100, get up to $330 in LLM cred
 <!-- pricing:start -->
 ### OpenAI
 
-63 models · live prices: [modapi.ai/pricing?search=gpt](https://modapi.ai/pricing?search=gpt&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
+57 models · live prices: [modapi.ai/pricing?search=gpt](https://modapi.ai/pricing?search=gpt&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
 
 | Model | Input $/1M | Output $/1M |
 |---|---:|---:|
@@ -45,20 +45,15 @@ New here? Start with $20 in free credit. Top up $100, get up to $330 in LLM cred
 | `gpt-4o-mini-2024-07-18` | $0.15 | $0.6 |
 | `gpt-5` | $1.25 | $10 |
 | `gpt-5-2025-08-07` | $1.25 | $10 |
-| `gpt-5-chat-latest` | $2.625 | $21 |
 | `gpt-5-mini` | $0.25 | $2 |
 | `gpt-5-mini-2025-08-07` | $0.25 | $2 |
 | `gpt-5-nano` | $0.05 | $0.4 |
 | `gpt-5-nano-2025-08-07` | $0.05 | $0.4 |
-| `gpt-5-pro` | $31.5 | $252 |
 | `gpt-5-search-api` | $2.625 | $21 |
 | `gpt-5-search-api-2025-10-14` | $2.625 | $21 |
 | `gpt-5.1` | $1.25 | $10 |
 | `gpt-5.1-2025-11-13` | $1.25 | $10 |
-| `gpt-5.1-codex` | $2.625 | $21 |
 | `gpt-5.2` | $1.75 | $14 |
-| `gpt-5.2-pro` | $44.1 | $352.8 |
-| `gpt-5.3-codex` | $3.675 | $29.4 |
 | `gpt-5.4` | $2.5 | $15 |
 | `gpt-5.4-mini` | $0.75 | $4.5 |
 | `gpt-5.4-mini-2026-03-17` | $0.75 | $4.5 |
@@ -79,7 +74,6 @@ New here? Start with $20 in free credit. Top up $100, get up to $330 in LLM cred
 | `gpt-6.2-astra` | $8 | $40 |
 | `gpt-6.2-sol` | $2 | $10 |
 | `gpt-chat-latest` | $2.316 | $13.9 |
-| `gpt-oss-120b` | $0.2328 | $0.931 |
 | `o1` | $15 | $60 |
 | `o1-2024-12-17` | $15 | $60 |
 | `o3` | $2 | $8 |
@@ -91,7 +85,7 @@ New here? Start with $20 in free credit. Top up $100, get up to $330 in LLM cred
 
 ### Alibaba (Qwen)
 
-19 models · live prices: [modapi.ai/pricing?search=qwen](https://modapi.ai/pricing?search=qwen&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
+18 models · live prices: [modapi.ai/pricing?search=qwen](https://modapi.ai/pricing?search=qwen&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
 
 | Model | Input $/1M | Output $/1M |
 |---|---:|---:|
@@ -108,35 +102,11 @@ New here? Start with $20 in free credit. Top up $100, get up to $330 in LLM cred
 | `qwen3.5-plus` | $0.84 | $5.04 |
 | `qwen3.5-plus-2026-02-15` | $0.84 | $5.04 |
 | `qwen3.7-max` | $5.25 | $15.75 |
-| `qwen3.8-flash` | $0.3642 | $1.141 |
 | `qwen3.8-max` | $2 | $6 |
 | `qwen3.8-max-0902` | $4.2 | $12.6 |
 | `qwen3.8-omni-flash` | $0.315 | $0.987 |
 | `qwen4-max` | $3.15 | $9.45 |
 | `qwq-32b` | $5.381 | $16.14 |
-
-### Google
-
-16 models · live prices: [modapi.ai/pricing?search=gemini](https://modapi.ai/pricing?search=gemini&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
-
-| Model | Input $/1M | Output $/1M |
-|---|---:|---:|
-| `gemini-2.5-flash` | $0.3 | $2.5 |
-| `gemini-2.5-flash-lite` | $0.1 | $0.4 |
-| `gemini-3-flash-preview` | $0.5 | $3 |
-| `gemini-3-pro-preview` | $2 | $12 |
-| `gemini-3.1-flash-lite` | $0.25 | $1.5 |
-| `gemini-3.1-flash-lite-preview` | $0.25 | $1.5 |
-| `gemini-3.1-pro-preview` | $2 | $12 |
-| `gemini-3.5-flash` | $1.5 | $9 |
-| `gemini-3.5-flash-lite` | $0.3 | $2.5 |
-| `gemini-3.6-flash` | $0.75 | $3.75 |
-| `gemini-3.7-flash` | $1.575 | $7.875 |
-| `gemini-3.8-flash` | $0.75 | $3.75 |
-| `gemini-4-argon` | $4 | $20 |
-| `gemini-4-carbon` | $2 | $10 |
-| `gemini-4-hydrogen` | $1.5 | $7.5 |
-| `gemini-4-neon` | $3 | $15 |
 
 ### Anthropic
 
@@ -159,16 +129,36 @@ New here? Start with $20 in free credit. Top up $100, get up to $330 in LLM cred
 | `claude-sonnet-5` | $2 | $10 |
 | `claude-sonnet-5-5` | $2 | $10 |
 
+### Google
+
+14 models · live prices: [modapi.ai/pricing?search=gemini](https://modapi.ai/pricing?search=gemini&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
+
+| Model | Input $/1M | Output $/1M |
+|---|---:|---:|
+| `gemini-2.5-flash` | $0.3 | $2.5 |
+| `gemini-2.5-flash-lite` | $0.1 | $0.4 |
+| `gemini-3-flash-preview` | $0.5 | $3 |
+| `gemini-3.1-flash-lite` | $0.25 | $1.5 |
+| `gemini-3.1-flash-lite-preview` | $0.25 | $1.5 |
+| `gemini-3.5-flash` | $1.5 | $9 |
+| `gemini-3.5-flash-lite` | $0.3 | $2.5 |
+| `gemini-3.6-flash` | $0.75 | $3.75 |
+| `gemini-3.7-flash` | $1.575 | $7.875 |
+| `gemini-3.8-flash` | $1.575 | $7.875 |
+| `gemini-4-argon` | $4 | $20 |
+| `gemini-4-carbon` | $2 | $10 |
+| `gemini-4-hydrogen` | $1.5 | $7.5 |
+| `gemini-4-neon` | $3 | $15 |
+
 ### Zhipu (GLM)
 
-11 models · live prices: [modapi.ai/pricing?search=glm](https://modapi.ai/pricing?search=glm&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
+10 models · live prices: [modapi.ai/pricing?search=glm](https://modapi.ai/pricing?search=glm&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
 
 | Model | Input $/1M | Output $/1M |
 |---|---:|---:|
 | `glm-4-airx` | $1.477 | $5.907 |
 | `glm-4-flash` | $0.0848 | $0.3392 |
 | `glm-4-long` | $0.1477 | $0.5907 |
-| `glm-4.5` | $0.6 | $2.2 |
 | `glm-4.5-air` | $0.1181 | $0.2953 |
 | `glm-5` | $1.24 | $5.582 |
 | `glm-5.1` | $0.886 | $3.544 |
@@ -209,34 +199,31 @@ New here? Start with $20 in free credit. Top up $100, get up to $330 in LLM cred
 
 ### DeepSeek
 
-5 models · live prices: [modapi.ai/pricing?search=deepseek](https://modapi.ai/pricing?search=deepseek&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
+4 models · live prices: [modapi.ai/pricing?search=deepseek](https://modapi.ai/pricing?search=deepseek&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
 
 | Model | Input $/1M | Output $/1M |
 |---|---:|---:|
 | `deepseek-v3-1` | $0.7429 | $2.229 |
-| `deepseek-v4-flash-0731` | $0.8617 | $2.585 |
 | `deepseek-v4-pro` | $1.32 | $3.96 |
 | `deepseek-v4-pro-0813` | $1.32 | $3.96 |
 | `deepseek-v4.1-flash` | $0.3 | $1.2 |
 
 ### MiniMax
 
-4 models · live prices: [modapi.ai/pricing?search=minimax](https://modapi.ai/pricing?search=minimax&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
+3 models · live prices: [modapi.ai/pricing?search=minimax](https://modapi.ai/pricing?search=minimax&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
 
 | Model | Input $/1M | Output $/1M |
 |---|---:|---:|
 | `MiniMax-M2.5` | $0.63 | $2.52 |
-| `MiniMax-M2.7` | $0.63 | $2.52 |
 | `MiniMax-M3` | $0.63 | $2.52 |
 | `MiniMax-M3.1-Flash` | $0.15 | $0.6 |
 
 ### Xiaomi
 
-3 models · live prices: [modapi.ai/pricing?search=mimo](https://modapi.ai/pricing?search=mimo&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
+2 models · live prices: [modapi.ai/pricing?search=mimo](https://modapi.ai/pricing?search=mimo&utm_source=github&utm_medium=referral&utm_campaign=offsite_seo)
 
 | Model | Input $/1M | Output $/1M |
 |---|---:|---:|
-| `mimo-v2.5` | $0.294 | $0.588 |
 | `mimo-v2.6-flash` | $0.14 | $0.28 |
 | `mimo-v2.6-pro` | $0.435 | $0.87 |
 

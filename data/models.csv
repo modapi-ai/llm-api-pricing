@@ -12,7 +12,6 @@ Alibaba (Qwen),qwen3.5-397b-a17b,1.26,7.56,2026-11-22
 Alibaba (Qwen),qwen3.5-plus,0.84,5.04,2026-11-22
 Alibaba (Qwen),qwen3.5-plus-2026-02-15,0.84,5.04,2026-11-22
 Alibaba (Qwen),qwen3.7-max,5.25,15.75,2026-11-22
-Alibaba (Qwen),qwen3.8-flash,0.3642,1.141,2026-11-24
 Alibaba (Qwen),qwen3.8-max,2.0,6.0,2026-11-22
 Alibaba (Qwen),qwen3.8-max-0902,4.2,12.6,2026-11-24
 Alibaba (Qwen),qwen3.8-omni-flash,0.315,0.987,2026-11-22
@@ -33,29 +32,25 @@ Anthropic,claude-sonnet-4-6,3.0,15.0,2026-11-22
 Anthropic,claude-sonnet-5,2.0,10.0,2026-11-22
 Anthropic,claude-sonnet-5-5,2.0,10.0,2026-11-22
 DeepSeek,deepseek-v3-1,0.7429,2.229,2026-11-22
-DeepSeek,deepseek-v4-flash-0731,0.8617,2.585,2026-11-22
 DeepSeek,deepseek-v4-pro,1.32,3.96,2026-11-24
 DeepSeek,deepseek-v4-pro-0813,1.32,3.96,2026-11-22
 DeepSeek,deepseek-v4.1-flash,0.3,1.2,2026-11-22
 Google,gemini-2.5-flash,0.3,2.5,2026-11-22
 Google,gemini-2.5-flash-lite,0.1,0.4,2026-11-22
 Google,gemini-3-flash-preview,0.5,3.0,2026-11-22
-Google,gemini-3-pro-preview,2.0,12.0,2026-11-22
 Google,gemini-3.1-flash-lite,0.25,1.5,2026-11-22
 Google,gemini-3.1-flash-lite-preview,0.25,1.5,2026-11-22
-Google,gemini-3.1-pro-preview,2.0,12.0,2026-11-22
 Google,gemini-3.5-flash,1.5,9.0,2026-11-22
 Google,gemini-3.5-flash-lite,0.3,2.5,2026-11-22
 Google,gemini-3.6-flash,0.75,3.75,2026-11-22
 Google,gemini-3.7-flash,1.575,7.875,2026-11-24
-Google,gemini-3.8-flash,0.75,3.75,2026-11-22
+Google,gemini-3.8-flash,1.575,7.875,2026-11-27
 Google,gemini-4-argon,4.0,20.0,2026-11-23
 Google,gemini-4-carbon,2.0,10.0,2026-11-25
 Google,gemini-4-hydrogen,1.5,7.5,2026-11-24
 Google,gemini-4-neon,3.0,15.0,2026-11-25
 Hunyuan (腾讯混元),hy4-preview,1.751,5.252,2026-11-25
 MiniMax,MiniMax-M2.5,0.63,2.52,2026-11-22
-MiniMax,MiniMax-M2.7,0.63,2.52,2026-11-24
 MiniMax,MiniMax-M3,0.63,2.52,2026-11-22
 MiniMax,MiniMax-M3.1-Flash,0.15,0.6,2026-11-22
 Moonshot (Kimi),kimi-k2-0711-preview,0.775,3.1,2026-11-22
@@ -86,20 +81,15 @@ OpenAI,gpt-4o-mini,0.15,0.6,2026-11-22
 OpenAI,gpt-4o-mini-2024-07-18,0.15,0.6,2026-11-22
 OpenAI,gpt-5,1.25,10.0,2026-11-22
 OpenAI,gpt-5-2025-08-07,1.25,10.0,2026-11-22
-OpenAI,gpt-5-chat-latest,2.625,21.0,2026-11-24
 OpenAI,gpt-5-mini,0.25,2.0,2026-11-22
 OpenAI,gpt-5-mini-2025-08-07,0.25,2.0,2026-11-22
 OpenAI,gpt-5-nano,0.05,0.4,2026-11-22
 OpenAI,gpt-5-nano-2025-08-07,0.05,0.4,2026-11-22
-OpenAI,gpt-5-pro,31.5,252.0,2026-11-24
 OpenAI,gpt-5-search-api,2.625,21.0,2026-11-22
 OpenAI,gpt-5-search-api-2025-10-14,2.625,21.0,2026-11-22
 OpenAI,gpt-5.1,1.25,10.0,2026-11-22
 OpenAI,gpt-5.1-2025-11-13,1.25,10.0,2026-11-22
-OpenAI,gpt-5.1-codex,2.625,21.0,2026-11-24
 OpenAI,gpt-5.2,1.75,14.0,2026-11-22
-OpenAI,gpt-5.2-pro,44.1,352.8,2026-11-24
-OpenAI,gpt-5.3-codex,3.675,29.4,2026-11-24
 OpenAI,gpt-5.4,2.5,15.0,2026-11-22
 OpenAI,gpt-5.4-mini,0.75,4.5,2026-11-22
 OpenAI,gpt-5.4-mini-2026-03-17,0.75,4.5,2026-11-22
@@ -120,7 +110,6 @@ OpenAI,gpt-6.1-terra,1.0,5.0,2026-11-25
 OpenAI,gpt-6.2-astra,8.0,40.0,2026-11-23
 OpenAI,gpt-6.2-sol,2.0,10.0,2026-11-23
 OpenAI,gpt-chat-latest,2.316,13.9,2026-11-24
-OpenAI,gpt-oss-120b,0.2328,0.931,2026-11-22
 OpenAI,o1,15.0,60.0,2026-11-22
 OpenAI,o1-2024-12-17,15.0,60.0,2026-11-22
 OpenAI,o3,2.0,8.0,2026-11-22
@@ -130,13 +119,11 @@ OpenAI,o3-mini-2025-01-31,1.1,4.4,2026-11-22
 OpenAI,o4-mini,1.1,4.4,2026-11-22
 OpenAI,o4-mini-2025-04-16,1.1,4.4,2026-11-22
 Other,glm-5.3-prime,75.0,75.0,2026-11-25
-Xiaomi,mimo-v2.5,0.294,0.588,2026-11-24
 Xiaomi,mimo-v2.6-flash,0.14,0.28,2026-11-24
 Xiaomi,mimo-v2.6-pro,0.435,0.87,2026-11-24
 Zhipu (GLM),glm-4-airx,1.477,5.907,2026-11-22
 Zhipu (GLM),glm-4-flash,0.0848,0.3392,2026-11-22
 Zhipu (GLM),glm-4-long,0.1477,0.5907,2026-11-22
-Zhipu (GLM),glm-4.5,0.6,2.2,2026-11-22
 Zhipu (GLM),glm-4.5-air,0.1181,0.2953,2026-11-22
 Zhipu (GLM),glm-5,1.24,5.582,2026-11-22
 Zhipu (GLM),glm-5.1,0.886,3.544,2026-11-24
