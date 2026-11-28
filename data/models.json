@@ -256,73 +256,10 @@
   },
   {
    "vendor": "Google",
-   "model": "gemini-2.5-flash",
-   "input": 0.3,
-   "output": 2.5,
-   "updated": "2026-11-22"
-  },
-  {
-   "vendor": "Google",
-   "model": "gemini-2.5-flash-lite",
-   "input": 0.1,
-   "output": 0.4,
-   "updated": "2026-11-22"
-  },
-  {
-   "vendor": "Google",
-   "model": "gemini-3-flash-preview",
-   "input": 0.5,
-   "output": 3.0,
-   "updated": "2026-11-22"
-  },
-  {
-   "vendor": "Google",
-   "model": "gemini-3.1-flash-lite",
-   "input": 0.25,
-   "output": 1.5,
-   "updated": "2026-11-22"
-  },
-  {
-   "vendor": "Google",
-   "model": "gemini-3.1-flash-lite-preview",
-   "input": 0.25,
-   "output": 1.5,
-   "updated": "2026-11-22"
-  },
-  {
-   "vendor": "Google",
-   "model": "gemini-3.5-flash",
-   "input": 1.5,
-   "output": 9.0,
-   "updated": "2026-11-22"
-  },
-  {
-   "vendor": "Google",
-   "model": "gemini-3.5-flash-lite",
-   "input": 0.3,
-   "output": 2.5,
-   "updated": "2026-11-22"
-  },
-  {
-   "vendor": "Google",
-   "model": "gemini-3.6-flash",
+   "model": "gemini-3.8-flash",
    "input": 0.75,
    "output": 3.75,
-   "updated": "2026-11-22"
-  },
-  {
-   "vendor": "Google",
-   "model": "gemini-3.7-flash",
-   "input": 1.575,
-   "output": 7.875,
-   "updated": "2026-11-24"
-  },
-  {
-   "vendor": "Google",
-   "model": "gemini-3.8-flash",
-   "input": 1.575,
-   "output": 7.875,
-   "updated": "2026-11-27"
+   "updated": "2026-11-28"
   },
   {
    "vendor": "Google",

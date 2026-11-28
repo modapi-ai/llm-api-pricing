@@ -35,16 +35,7 @@ DeepSeek,deepseek-v3-1,0.7429,2.229,2026-11-22
 DeepSeek,deepseek-v4-pro,1.32,3.96,2026-11-24
 DeepSeek,deepseek-v4-pro-0813,1.32,3.96,2026-11-22
 DeepSeek,deepseek-v4.1-flash,0.3,1.2,2026-11-22
-Google,gemini-2.5-flash,0.3,2.5,2026-11-22
-Google,gemini-2.5-flash-lite,0.1,0.4,2026-11-22
-Google,gemini-3-flash-preview,0.5,3.0,2026-11-22
-Google,gemini-3.1-flash-lite,0.25,1.5,2026-11-22
-Google,gemini-3.1-flash-lite-preview,0.25,1.5,2026-11-22
-Google,gemini-3.5-flash,1.5,9.0,2026-11-22
-Google,gemini-3.5-flash-lite,0.3,2.5,2026-11-22
-Google,gemini-3.6-flash,0.75,3.75,2026-11-22
-Google,gemini-3.7-flash,1.575,7.875,2026-11-24
-Google,gemini-3.8-flash,1.575,7.875,2026-11-27
+Google,gemini-3.8-flash,0.75,3.75,2026-11-28
 Google,gemini-4-argon,4.0,20.0,2026-11-23
 Google,gemini-4-carbon,2.0,10.0,2026-11-25
 Google,gemini-4-hydrogen,1.5,7.5,2026-11-24
